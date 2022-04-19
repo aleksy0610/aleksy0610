@@ -15,11 +15,3 @@ collaborative skills to build meaningful and impactful products.<br>
 ## 🚀 Achievements
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksy0610&theme=light&count_private=true&layout=compact" alt="Aleksy's most used languages" />
 
-
-## 🏆 Profile Trophy
-
-<p align="center">
-  <a href="https://github.com/aleksy0610">
-    <img src="https://github-profile-trophy.vercel.app/?username=aleksy0610&row=1&column=7&no-bg=true&margin-w=42"/>
-  </a>
-</p>
