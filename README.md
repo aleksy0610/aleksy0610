@@ -5,11 +5,11 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=aleksy0610&theme=blue-green" />
 I am a Full-Stack Software Engineer with a background in Control<br><br>
 
-Systems Engineering who is passionate about creating user-<br>
-friendly applications by writing clean, efficient, and maintainable<br><br>
+Systems Engineering who is passionate about creating user-
+friendly applications by writing clean, efficient, and maintainable<br>
 
-code. I am looking forward to joining an innovative, dynamic<br>
-company where I can utilize my strong problem-solving and<br>
+code. I am looking forward to joining an innovative, dynamic
+company where I can utilize my strong problem-solving and
 collaborative skills to build meaningful and impactful products.<br>
 
 ## 🚀 Achievements
