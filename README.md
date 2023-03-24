@@ -2,7 +2,6 @@
 <div align="center">⚡ Quotes: <strong>Action is the foundational key to all success.</strong></div>
 
 ## 🤵 About Me
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=aleksy0610&theme=blue-green" />
 I am a Full-Stack Software Engineer with a background in Control<br><br>
 
 Systems Engineering who is passionate about creating user-
